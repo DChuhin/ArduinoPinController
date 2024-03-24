@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArduinoPinController</string>
+    <string name="loading_failed">failed to fetch pins</string>
+    <string name="retry">Retry</string>
+</resources>
